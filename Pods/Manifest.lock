@@ -1,0 +1,20 @@
+PODS:
+  - PDFGenerator (3.1.0)
+  - WeScan (1.7.0)
+
+DEPENDENCIES:
+  - PDFGenerator
+  - WeScan
+
+SPEC REPOS:
+  trunk:
+    - PDFGenerator
+    - WeScan
+
+SPEC CHECKSUMS:
+  PDFGenerator: 17d6bc525db0a3fcd156fbf00f9d1b8d5cc75d1e
+  WeScan: fed582f6c38014d529afb5aa9ffd1bad38fc72b7
+
+PODFILE CHECKSUM: c3a49c51b33282904644649a0c913660d160ce5c
+
+COCOAPODS: 1.11.3
